@@ -13,6 +13,8 @@
   <img align="center" title="Python" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="Docker" alt="Docker-icon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
    <img align="center" title="Jest" alt="Jest-icon" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+      <img align="center" title="MySQL" alt="MySQL" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+
 </div>
 
   ##
