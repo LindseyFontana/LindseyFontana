@@ -1,7 +1,5 @@
 # Hi, I'm Lindsey! 👋🏻
 
-**Mobile Developer @ Webmotors | Flutter & Dart | Android & Kotlin**
-
 I'm a Mobile Developer focused on building **scalable, performant and maintainable applications**.
 
 Currently, I work at **Webmotors**, contributing to *Webmotors Serviços*, a product used by thousands of users for automotive services and vehicle debt management.
