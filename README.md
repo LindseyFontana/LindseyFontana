@@ -5,7 +5,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-      <img align="center" title="Python" alt="Python-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" title="Flutter" alt="Flutter-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg">
    <img align="center" title="HTML" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" title="JavaScript" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
