@@ -12,7 +12,9 @@ Currently, I work at **Webmotors**, contributing to *Webmotors Serviços*, a pro
   <img align="center" title="Kotlin" alt="Kotlin-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg">
   <img align="center" title="Android" alt="Android-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg">
   <img align="center" title="Firebase" alt="Firebase-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/firebase/firebase-original.svg">
-  <img align="center" title="Firebase" alt="Firebase-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/datadog/datadog-original.svg">
+  <img align="center" title="DataDog" alt="DataDog-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/datadog/datadog-original.svg">
+  <img align="center" title="Git" alt="Git-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
+  
 </div>
 
 ### 🏗️ What I work with
