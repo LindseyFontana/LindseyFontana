@@ -2,20 +2,15 @@
   <a href="https://github.com/LindseyFontana">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LindseyFontana&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindseyFontana&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindseyFontana&layout=compact&langs_count=7&theme=vue-dark"/>
+    
 </div>
  
 <div style="display: inline_block"><br>
-      <img align="center" title="Flutter" alt="Flutter-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg">
-   <img align="center" title="HTML" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" title="JavaScript" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="React" alt="React-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" title="Redux" alt="Redux-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-   <img align="center" title="Jest" alt="Jest-icon" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-      <img align="center" title="MySQL" alt="MySQL-icon" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" title="MongoDB" alt="MongoDB-icon" height="25" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" title="Docker" alt="Docker-icon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-    <img align="center" title="Heroku" alt="Heroku-icon" height="30" width="45" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
+  <img align="center" title="Flutter" alt="Flutter-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg">
+  <img align="center" title="Dart" alt="Dart-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original-wordmark.svg">
+  <img align="center" title="Dart" alt="Dart-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original-wordmark.svg">
+  <img align="center" title="Dart" alt="Dart-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original-wordmark.svg">
 </div>
 
   ##
